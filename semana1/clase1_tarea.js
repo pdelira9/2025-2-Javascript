@@ -16,8 +16,9 @@ async function main() {
   console.log('Si restas el primero al segundo obtienes: ', resta);
   console.log('Si los multiplicas obtienes: ', multi);
   console.log('Si divides el primero entre el segundo obtienes: ', divi);
-  // TODO: Mostrar el resultado de la resta, multiplicación y división
 
-}
+  // TODO: Implementar la resta, multiplicación y división
 
+}       
+  
 main();

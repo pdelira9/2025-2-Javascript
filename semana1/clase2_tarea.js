@@ -6,7 +6,6 @@
 // - Si la temperatura está entre 10 y 20 grados, mostrar "Está templado"
 // - Si la temperatura está entre 20 y 30 grados, mostrar "Hace calor"
 // - Si la temperatura es mayor a 30 grados, mostrar "Hace mucho calor"
-
 const { ask } = require('../helpers/input');
 
 async function main() {
