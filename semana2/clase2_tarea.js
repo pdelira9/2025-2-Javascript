@@ -11,3 +11,15 @@
 // 2. Eliminar fruta
 // 3. Ver lista de frutas
 // 4. Salir
+
+const { ask } = require('../helpers/input');
+
+async function main() {
+    let opcion = '';
+    let frutas = [];
+
+    while (opcion !=='3'){
+        opcion = await ask ('¿Qué quieres hacer?'+'\n')
+    }
+
+}
