@@ -28,6 +28,5 @@ async function main() {
     resultado = resultado + palabraAlReves[i];
   }
   console.log("Al revés", resultado);
->>>>>>> upstream/main
 }
 main();
