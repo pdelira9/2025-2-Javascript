@@ -35,4 +35,4 @@ function toogleComplete(span){
 }
 console.log(tasks);
 localStorage.setItem("tareas, tasks")
-}
+

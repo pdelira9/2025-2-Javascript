@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .task-complete{
     text-decoration: line-through;
     color: #999;
 }
+=======
+.task-complete {
+  text-decoration: line-through;
+  color: #999;
+}
+>>>>>>> upstream/main
