@@ -12,3 +12,13 @@
 //Promedio general
 //
 //La calificación más alta y la más baja
+
+const { ask } = require('../helpers/input');
+
+function analizarCalificaciones(numeros){
+    
+}
+
+async function main() {
+
+}
